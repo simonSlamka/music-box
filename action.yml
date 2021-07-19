@@ -13,7 +13,7 @@ description: GitHub Action for injecting last week's listening report from last.
 
 runs:
   using: node12
-  main: indexMusic.js
+  main: ./indexMusic.js
 
 branding:
   icon: music
